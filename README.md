@@ -1,7 +1,9 @@
 # Worlde Clone
 
-TODO:
+Wordle Clone & Solver in Python
 
-- [] Interface
-- [] Word Checker
-- [] Solver
+
+- [x] Find Words
+- [ ] Interface
+- [ ] Word Checker
+- [ ] Solver
